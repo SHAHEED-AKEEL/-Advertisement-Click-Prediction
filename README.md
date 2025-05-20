@@ -77,7 +77,7 @@ The dataset should be in **CSV format** and contain numerical features with a ta
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ## 📜 License
-This project is **open-source** and available under the **MIT License**.
+This project is **open-source** and available under the **MIT License** .
 
 ---
 💡 *If you found this useful, don't forget to ⭐ the repo!*
